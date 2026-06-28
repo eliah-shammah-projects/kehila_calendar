@@ -1,0 +1,11 @@
+# Credenciais do clasp (se um dia usar)
+.clasp.json
+.clasprc.json
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
